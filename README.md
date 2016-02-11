@@ -31,7 +31,8 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ### GIT
 
-- [Example](GIT/file.md)
+- [Adicionar autocomplete git flow no Ubuntu](GIT/autocomplete-gitflow.md)
+- [Exibir a branch no terminal quando tiver na pasta do projeto](GIT/branch-no-terminal-pasta-projeto.md)
 
 ---
 
