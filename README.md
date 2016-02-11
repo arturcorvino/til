@@ -25,7 +25,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ### Linux
 
+- [Como deixar o terminal colorido](Linux/terminal-com-cores.md)
 - [Como descobrir a versão/release Ubuntu](Linux/version-os.md)
+- [Apagar arquivos recursivos de uma pasta](Linux/apagar-arquivos-recursive.md)
 
 ---
 
