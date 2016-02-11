@@ -9,8 +9,11 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Categories
 
 * [PHP](#php)
+* [Java](#java)
 * [Linux](#linux)
 * [GIT](#git)
+* [JavaScript](#javascript)
+* [CSS](#css)
 * [Apache](#apache)
 * [Ngnix](#ngnix)
 
@@ -20,6 +23,12 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 - [Adicionar autocomplete composer no Ubuntu](PHP/autocomplete-composer.md)
 - [Verificar sintax de todos os arquivos do projeto](PHP/sintax-projeto.md)
+
+---
+
+### Java
+
+- [Example](Java/file.md)
 
 ---
 
@@ -35,18 +44,27 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 - [Adicionar autocomplete git flow no Ubuntu](GIT/autocomplete-gitflow.md)
 - [Exibir a branch no terminal quando tiver na pasta do projeto](GIT/branch-no-terminal-pasta-projeto.md)
+- [Como configurar o git para usar o Meld para corrigir conflitos](GIT/git-meld.md)
+
+---
+
+### JavaScript
+
+
+---
+
+### CSS
+
 
 ---
 
 ### Apache
 
-- [Example](Apache/file.md)
 
 ---
 
 ### Ngnix
 
-- [Example](Ngnix/file.md)
 
 ## About
 
