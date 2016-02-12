@@ -56,6 +56,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Adicionar autocomplete git flow no Ubuntu](GIT/autocomplete-gitflow.md)
 - [Exibir a branch no terminal quando tiver na pasta do projeto](GIT/branch-no-terminal-pasta-projeto.md)
 - [Como configurar o git para usar o Meld para corrigir conflitos](GIT/git-meld.md)
+- [.gitignore não funciona, como resolver?](GIT/gitignore-nao-funciona.md)
 
 ---
 
