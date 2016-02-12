@@ -9,7 +9,9 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### Categories
 
 * [PHP](#php)
+    - [CakePHP](#cakephp)
 * [Java](#java)
+    - [VRaptor](#vraptor)
 * [Linux](#linux)
 * [GIT](#git)
 * [JavaScript](#javascript)
@@ -24,11 +26,19 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Adicionar autocomplete composer no Ubuntu](PHP/autocomplete-composer.md)
 - [Verificar sintax de todos os arquivos do projeto](PHP/sintax-projeto.md)
 
+#### CakePHP
+
+- [Example](PHP/CakePHP/file.md)
+
 ---
 
 ### Java
 
 - [Example](Java/file.md)
+
+#### VRaptor
+
+- [Example](Java/VRaptor/file.md)
 
 ---
 
@@ -37,6 +47,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Como deixar o terminal colorido](Linux/terminal-com-cores.md)
 - [Como descobrir a versão/release Ubuntu](Linux/version-os.md)
 - [Apagar arquivos recursivos de uma pasta](Linux/apagar-arquivos-recursive.md)
+- [Adicionar atalhos de acesso SSH](Linux/atalho-ssh.md)
 
 ---
 
