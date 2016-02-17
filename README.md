@@ -57,7 +57,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Exibir a branch no terminal quando tiver na pasta do projeto](GIT/branch-no-terminal-pasta-projeto.md)
 - [Como configurar o git para usar o Meld para corrigir conflitos](GIT/git-meld.md)
 - [.gitignore não funciona, como resolver?](GIT/gitignore-nao-funciona.md)
-- [Comparar versões por tag em projetos](GIT/comparar-versoes-tags.md)
+- [Comparar versões por tag ou commits em projetos](GIT/comparar-versoes-tags.md)
 
 ---
 
