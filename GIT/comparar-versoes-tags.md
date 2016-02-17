@@ -23,3 +23,9 @@ Para registrar os arquivos excluidos num documento.txt, só executar o comando a
 ```bash
 git diff --diff-filter=D --name-only <versao anterior> <versao nova> > <diretorio destino>/deletados.txt
 ```
+
+Para registrar os arquivos alterados num documento.txt, só executar o comando abaixo fazendo as substituições necessárias:
+
+```bash
+git diff --diff-filter=ACMRT --name-only <versao anterior> <versao nova> > <diretorio destino>/alterados.txt
+```
