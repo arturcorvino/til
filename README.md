@@ -2,7 +2,9 @@
 
 > Today I Learned
 
-A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post.
+> Hoje eu aprendi
+
+Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tecnologia que aprendo e são interessantes de armazenar em algum lugar. 
 
 ---
 
@@ -58,6 +60,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Como configurar o git para usar o Meld para corrigir conflitos](GIT/git-meld.md)
 - [.gitignore não funciona, como resolver?](GIT/gitignore-nao-funciona.md)
 - [Comparar versões por tag ou commits em projetos](GIT/comparar-versoes-tags.md)
+- [Voltar os arquivos excluidos através do git checkout](GIT/git-checkou-arquivos-deletados.md)
 
 ---
 
@@ -69,21 +72,14 @@ A collection of concise write-ups on small things I learn day to day across a va
 ### CSS
 
 
+#### LESS
+
 ---
 
 ### Apache
-
 
 ---
 
 ### Ngnix
 
-
-## About
-
-I shamelessly stole this idea from [thoughtbot/til](https://github.com/thoughtbot/til) and [jbranchaud/til](https://github.com/jbranchaud/til).
-
-## Other TIL Collections
-
-* [thoughtbot/til](https://github.com/thoughtbot/til)
-* [jbranchaud/til](https://github.com/jbranchaud/til)
+- [CakePHP no Ngnix com reescrita](Ngnix/cakephp-no-ngnix.md)
