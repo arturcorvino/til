@@ -30,7 +30,7 @@ Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tec
 
 #### CakePHP
 
-- [Example](PHP/CakePHP/file.md)
+- [Converter objeto em array com CakePHP3](PHP/CakePHP/object-em-array-cakephp3.md)
 
 ---
 
