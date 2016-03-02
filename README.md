@@ -61,6 +61,7 @@ Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tec
 - [.gitignore não funciona, como resolver?](GIT/gitignore-nao-funciona.md)
 - [Comparar versões por tag ou commits em projetos](GIT/comparar-versoes-tags.md)
 - [Voltar os arquivos excluidos através do git checkout](GIT/git-checkou-arquivos-deletados.md)
+- [Voltar versão do para o commit](GIT/git-voltar-versao-commit.md)
 
 ---
 
