@@ -14,6 +14,7 @@ Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tec
     - [CakePHP](#cakephp)
 * [Java](#java)
     - [VRaptor](#vraptor)
+    - [Spring](#spring)
 * [Linux](#linux)
 * [GIT](#git)
 * [JavaScript](#javascript)
@@ -32,6 +33,7 @@ Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tec
 #### CakePHP
 
 - [Converter objeto em array com CakePHP3](PHP/CakePHP/object-em-array-cakephp3.md)
+- [Usar componente em shell](PHP/CakePHP/use-component-shell.md)
 
 ---
 
@@ -42,6 +44,10 @@ Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tec
 #### VRaptor
 
 - [Example](Java/VRaptor/file.md)
+
+#### Spring
+
+- [Example](Java/Spring/file.md)
 
 ---
 
