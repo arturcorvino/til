@@ -69,6 +69,7 @@ Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tec
 - [Comparar versões por tag ou commits em projetos](GIT/comparar-versoes-tags.md)
 - [Voltar os arquivos excluidos através do git checkout](GIT/git-checkou-arquivos-deletados.md)
 - [Voltar versão do para o commit](GIT/git-voltar-versao-commit.md)
+- [Como alterar a URL de um repositório remoto](GIT/trocar-url-origem.md)
 
 ---
 
