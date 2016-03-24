@@ -34,6 +34,7 @@ Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tec
 
 - [Converter objeto em array com CakePHP3](PHP/CakePHP/object-em-array-cakephp3.md)
 - [Usar componente em shell](PHP/CakePHP/use-component-shell.md)
+- [Desativar validação de modelo no controller](PHP/CakePHP/desativar-validacao-model-no-controller.md)
 
 ---
 
