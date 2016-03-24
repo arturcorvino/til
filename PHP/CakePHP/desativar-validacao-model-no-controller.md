@@ -10,4 +10,4 @@
  ?>
 ```
 
-[fonte](http://devlearning.blogspot.com.br/2013/09/cakephp-using-plugin-component-in.html)
+[fonte](https://thedevelopersguide.wordpress.com/2013/07/31/disable-data-validation-in-controller-cakephp/)
