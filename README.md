@@ -71,6 +71,7 @@ Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tec
 - [Voltar os arquivos excluidos através do git checkout](GIT/git-checkou-arquivos-deletados.md)
 - [Voltar versão do para o commit](GIT/git-voltar-versao-commit.md)
 - [Como alterar a URL de um repositório remoto](GIT/trocar-url-origem.md)
+- [Remover arquivos que foram deletados com git add](GIT/remover-arquivos-com-git-add.md)
 
 ---
 
