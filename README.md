@@ -29,6 +29,7 @@ Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tec
 - [Adicionar autocomplete composer no Ubuntu](PHP/autocomplete-composer.md)
 - [Verificar sintax de todos os arquivos do projeto](PHP/sintax-projeto.md)
 - [Somar ou Subtrair dias de uma data](PHP/somar-subtrair-dias-data.md)
+- [Exibir todos os dias entre um intervalo de datas](PHP/dias-intervalo-datas.md)
 
 #### CakePHP
 
