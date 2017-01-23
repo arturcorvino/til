@@ -63,6 +63,7 @@ Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tec
 - [Adicionar atalhos de acesso SSH](Linux/atalho-ssh.md)
 - [Altera timezone do CentOS / RHEL](Linux/alterar-timezone-centos.md)
 - [Para as execuções do crond do CentOS / RHEL pegar a data UTC](Linux/crond-data-utc-centos.md)
+- [Permissão pasta SSH](Linux/permissao-pasta-.ssh.md)
 
 ---
 
