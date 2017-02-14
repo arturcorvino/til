@@ -23,6 +23,7 @@ Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tec
 * [Ngnix](#ngnix)
 * [Database](#database)
     - [Mysql](#mysql)
+* [Regex](#regex)
 
 ---
 
@@ -110,3 +111,9 @@ Uma coleção muito valiosa sobre coisas sobre linguagens de programação e tec
 #### Mysql
 
 - [Clonar database](Database/Mysql/clonar-database.md)
+
+---
+
+### Regex
+
+- [Trocar virgula por ponto entre números](Regex/virgula-por-ponto.md)
